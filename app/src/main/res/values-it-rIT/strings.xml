@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teatro</string>
+    <string name="Username">Nome utente</string>
+    <string name="login">Login</string>
+    <string name="register">Registrati</string>
+    <string name="back">Indietro</string>
+    <string name="password">Parola d\'ordine</string>
+</resources>

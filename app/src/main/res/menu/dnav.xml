@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/ufi_heart"
+        android:title="Favorite" />
+
+    <item android:title="Details"
+        android:icon = "@drawable/rectangle"
+        android:id="@+id/details"/>
+
+    <item
+        android:icon="@drawable/home"
+        android:title="Home"
+        android:id="@+id/dhome"/>
+</menu>
