@@ -9,8 +9,8 @@ class parseApp : Application() {
         super.onCreate()
         Parse.initialize(
             Parse.Configuration.Builder(this)
-                .applicationId("")
-                .clientKey("")
+                .applicationId("Knogl3QNo4lcCAwq1sbT1dNoKuUXSU0iMpxKJw73")
+                .clientKey("NoJoB4y1xoO4ZKIyqFjQBfKyTZTtmiXvcv56rIHp")
                 .server("https://parseapi.back4app.com")
                 .build()
         )
